@@ -1,0 +1,29 @@
+{
+  "updated_at": "2025-07-30T12:39:29.347Z",
+  "images": [
+    {
+      "public_id": "IMG_0835_1_o89hb5",
+      "url": "https://res.cloudinary.com/dexy5auo9/image/upload/v1753877077/IMG_0835_1_o89hb5.jpg",
+      "created_at": "2025-07-30T12:04:37+00:00",
+      "taken_at": null,
+      "title": null,
+      "alt": null
+    },
+    {
+      "public_id": "IMG_7376_zr3msw",
+      "url": "https://res.cloudinary.com/dexy5auo9/image/upload/v1753876612/IMG_7376_zr3msw.jpg",
+      "created_at": "2025-07-30T11:56:52+00:00",
+      "taken_at": null,
+      "title": null,
+      "alt": null
+    },
+    {
+      "public_id": "IMG_7373_ecpr6k",
+      "url": "https://res.cloudinary.com/dexy5auo9/image/upload/v1753876612/IMG_7373_ecpr6k.jpg",
+      "created_at": "2025-07-30T11:56:52+00:00",
+      "taken_at": null,
+      "title": null,
+      "alt": null
+    }
+  ]
+}
